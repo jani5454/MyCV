@@ -1,0 +1,19 @@
+/** This gives the menu avatar and the card for it a unique look. Also makes the avatar round. */
+page-menu {
+    .hide-card {
+        -webkit-box-shadow: none!important;
+      }
+      
+      .custom-avatar {
+        margin-top: 10px;
+        height: 30vw;
+        width: 30vw;
+        border: 1px solid rgb(170, 67, 67);
+        border-radius: 50%;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        
+      }
+}
+/** Jani Antoniou 1601110 */
